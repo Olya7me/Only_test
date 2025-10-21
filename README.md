@@ -35,7 +35,7 @@ git clone https://github.com/Olya7me/Only_test.git
 2. Перейдите в директорию проекта
 
 ```bash
-cd only-test-app
+cd only-test
 ```
 
 3. Установите модули
